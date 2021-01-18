@@ -1,0 +1,4 @@
+include ':widgettest3'
+include ':widgettest2'
+include ':app'
+rootProject.name = "WidgetTest"
